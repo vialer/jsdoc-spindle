@@ -1,0 +1,25 @@
+{
+  "name": "jsdoc-spindle",
+  "version": "1.0.0",
+  "description": "A minimal jsdoc template built on top of Vue & JSON data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vialer/jsdoc-spindle.git"
+  },
+  "keywords": [
+    "jsdoc"
+  ],
+  "author": "Windshaft B.V.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vialer/jsdoc-spindle/issues"
+  },
+  "homepage": "https://github.com/vialer/jsdoc-spindle#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
